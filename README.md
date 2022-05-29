@@ -1,2 +1,0 @@
-# Hacekd-TV
-Free IPTV
