@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:0, tvg-logo="https://assets-global.website-files.com/5e07a5e0be0f8287be7621dc/5e346b175b79245dd62ba2ab_HustlerLogo_og2.jpg" tvg-name="HusTler (+18) | HD"  group-title="+18",Jasmin Channel (+18) | HD
+http://50.7.222.90:8081/hustlerhd/index.m3u8?wmsAuthSign=c75edd7fd8592a941449ecd05eae53dc-1650180074-251i791i77i681
+
+#EXTINF:0, tvg-logo="https://play-lh.googleusercontent.com/SO05Jsh-ONrtRXa_5eOa15AzjrFCKNNPKlBMK1Prv_-meYXAV5F5eK15iJTGbY2ULBM" tvg-name="SECRETS - USA (+18) | HD"  group-title="+18",SECRETS - USA (+18) | HD
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBiSUXjULWkg9ugs9mSztJg9uuUd3g9QCgHjl1ttF2kgi9CollR2tN6aXMczPlMl_0To&usqp=CAU" tvg-name="Playboy (+18) | HD"  group-title="+18",Playboy (+18) | HD
+https://edge3.prepro.cvattv.com.ar/live/vod/Playboy/SA_Live_WebVTT_FTA/Playboy.m3u8
+
+#EXTINF:0,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Old_Canal_Venus_logo.svg/2560px-Old_Canal_Venus_logo.svg.png" tvg-name="VENUS - USA (+18) | HD"  group-title="+18",VENUS - USA (+18) | HD
+https://edge4-sl.cvattv.com.ar/live/c6eds/Venus/SA_SAGEMCOM/Venus.m3u8
+
+#EXTINF:0, tvg-logo="https://i.postimg.cc/NGKPwybC/A3-BIKINI-MODIFICADA.png" tvg-name="A3BIKINI - USA (+18) | HD"  group-title="+18",A3BIKINI - USA (+18) | HD
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+
+#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png/revision/latest?cb=20130927203009" tvg-name="SEXTREME - USA (+18) | HD"  group-title="+18",SEXTREME - USA (+18) | HD
+https://edge1.prepro.cvattv.com.ar/live/vod/Sextreme/SA_Live_WebVTT_FTA/Sextreme.m3u8
+
+#EXTINF:0, tvg-logo=" tvg-name="TV Adultos POV (+18) | HD"  group-title="+18",TV Adultos POV (+18) | HD
+http://cdn.adultiptv.net/pov.m3u8?PlaylistM3UCL
+
+#EXTINF:0, tvg-logo=" tvg-name="TV Adultos Teens (+18) | HD"  group-title="+18",TV Adultos Teens (+18) | HD
+http://cdn.adultiptv.net/teen.m3u8?PlaylistM3UCL
+
+#EXTINF:0, tvg-logo=" tvg-name="TV Adultos GangBang (+18) | HD"  group-title="+18",TV Adultos GangBang (+18) | HD
+http://cdn.adultiptv.net/gangbang.m3u8?PlaylistM3UCL
+
+#EXTINF:0, tvg-logo=" tvg-name="TV Adultos Brunette (+18) | HD"  group-title="+18",TV Adultos Brunette (+18) | HD
+http://cdn.adultiptv.net/brunette.m3u8?PlaylistM3UCL
+
+#EXTINF:0, tvg-logo=" tvg-name="TV Adultos Blonde (+18) | HD"  group-title="+18",TV Adultos Blonde (+18) | HD
+http://cdn.adultiptv.net/blonde.m3u8?PlaylistM3UCL
+
+#EXTINF:0, tvg-logo=" tvg-name="TV Adultos Live Cams (+18) | HD"  group-title="+18",TV Adultos Live Cams (+18) | HD
+http://cdn.adultiptv.net/livecams.m3u8?PlaylistM3UCL
+
+#EXTINF:0, tvg-logo=" tvg-name="TV Adultos Latina (+18) | HD"  group-title="+18",TV Adultos Latina (+18) | HD
+http://cdn.adultiptv.net/latina.m3u8?PlaylistM3UCL
+
+#EXTINF:0, tvg-logo=" tvg-name="TV Adultos MILF (+18) | HD"  group-title="+18",TV Adultos MILF (+18) | HD
+http://cdn.adultiptv.net/milf.m3u8?PlaylistM3UCL
+
+#EXTINF:0, tvg-logo=" tvg-name="TV Adultos Pornstars (+18) | HD"  group-title="+18",TV Adultos Pornstars (+18) | HD
+http://cdn.adultiptv.net/pornstar.m3u8?PlaylistM3UCL
