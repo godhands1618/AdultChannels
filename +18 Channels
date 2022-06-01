@@ -9,9 +9,6 @@ https://edge4-sl.cvattv.com.ar/live/c6eds/Venus/SA_SAGEMCOM/Venus.m3u8
 #EXTINF:0, tvg-logo="https://i.postimg.cc/NGKPwybC/A3-BIKINI-MODIFICADA.png" tvg-name="A3BIKINI - USA (+18) | HD"  group-title="+18",A3BIKINI - USA (+18) | HD
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 
-#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png/revision/latest?cb=20130927203009" tvg-name="SEXTREME - USA (+18) | HD"  group-title="+18",SEXTREME - USA (+18) | HD
-https://edge1.prepro.cvattv.com.ar/live/vod/Sextreme/SA_Live_WebVTT_FTA/Sextreme.m3u8
-
 #EXTINF:0, tvg-logo=" tvg-name="TV Adultos POV (+18) | HD"  group-title="+18",TV Adultos POV (+18) | HD
 http://cdn.adultiptv.net/pov.m3u8?PlaylistM3UCL
 
