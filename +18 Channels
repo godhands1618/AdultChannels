@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0, tvg-logo="https://assets-global.website-files.com/5e07a5e0be0f8287be7621dc/5e346b175b79245dd62ba2ab_HustlerLogo_og2.jpg" tvg-name="HusTler (+18) | HD"  group-title="+18",Jasmin Channel (+18) | HD
-http://50.7.222.90:8081/hustlerhd/index.m3u8?wmsAuthSign=c75edd7fd8592a941449ecd05eae53dc-1650180074-251i791i77i681
 
 #EXTINF:0, tvg-logo="https://play-lh.googleusercontent.com/SO05Jsh-ONrtRXa_5eOa15AzjrFCKNNPKlBMK1Prv_-meYXAV5F5eK15iJTGbY2ULBM" tvg-name="SECRETS - USA (+18) | HD"  group-title="+18",SECRETS - USA (+18) | HD
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
